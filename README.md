@@ -26,7 +26,7 @@
 
 ---
 
-### 🛠️ Language % Tools:
+### 🛠️ Language & Tools:
 
 <p align="left">
   <a href="https://getbootstrap.com" target="_blank">
