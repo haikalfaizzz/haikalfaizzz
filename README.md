@@ -1,5 +1,5 @@
-<h1 align="center">Hai 👋, nama saya Haikal Faiz</h1>
-<h3 align="center">Pengembang front-end junior dari Indonesia</h3>
+<h1 align="center">Hii 👋, i'm Haikal Faiz</h1>
+<h3 align="center">A junior front-end from Indonesia-Aceh</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=haikalfaizzz&label=Profile%20views&color=0e75b6&style=flat" alt="haikalfaizzz" />
@@ -7,13 +7,13 @@
 
 ---
 
-- 📫 Cara menghubungi saya: **faizh2374@gmail.com**
+- 📫 Contact me: **faizh2374@gmail.com**
 
-- ⚡ Fakta menarik: *saya sangat suka secangkir kopi*
+- ⚡ : *saya sangat suka secangkir kopi*
 
 ---
 
-### 🔗 Hubungi saya:
+### 🔗 Contact me:
 
 <p align="left">
   <a href="https://linkedin.com/in/haikal faiz" target="_blank">
@@ -26,7 +26,7 @@
 
 ---
 
-### 🛠️ Bahasa dan Alat:
+### 🛠️ Language % Tools:
 
 <p align="left">
   <a href="https://getbootstrap.com" target="_blank">
