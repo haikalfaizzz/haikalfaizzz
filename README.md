@@ -9,7 +9,7 @@
 
 - 📫 Contact me: **faizh2374@gmail.com**
 
-- ⚡ : *saya sangat suka secangkir kopi*
+- ⚡ : *i like a cup of coffee*
 
 ---
 
